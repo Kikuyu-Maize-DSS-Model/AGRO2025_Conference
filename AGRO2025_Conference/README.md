@@ -1,4 +1,4 @@
-Climate Sensitivity of Maize Agroecosystems in Kikuyu Sub-County (1981–2022)
+Climate sensitivity of maize agroecosystems in Kikuyu Sub-County (1981–2022)
 =============================================================================
 
 This repository supports the AGRO 2025 Biennial Conference abstact submission titled:
@@ -9,7 +9,7 @@ Institution: University of Nairobi, Faculty of Agriculture, Department of LARMAT
 Contact: jeanmarie.minani2@gmail.com | jeanmarie@students.uonbi.ac.ke  
 ORCID: 0009-0005-7471-5089
 
-Project Overview
+Project overview
 ----------------
 This study explores how maize yield in Kikuyu Sub-County responds to climate variability using a data-driven simulation framework. It combines:
 
@@ -18,12 +18,12 @@ This study explores how maize yield in Kikuyu Sub-County responds to climate var
 - Linear regression models (OLS) to estimate climate sensitivities
 - Scenario grid analysis to simulate yield under 35 climate futures
 
-Analysis & Modeling
+Analysis & modeling
 -------------------
 
 - linear_predictions_1981_2022.py: Python script for fitting OLS models and generating climate sensitivity outputs
 - panel.json: Configuration or metadata for scenario panel setup
-- grid2.json: Scenario grid with projected yields under ΔT and ΔP combinations
+- grid.json: Scenario grid with projected yields under ΔT and ΔP combinations
 
 Visualizations
 --------------
@@ -34,7 +34,7 @@ Visualizations
 - Kikuyu_full_data_1981-2022.png: Visualization of full maize yield and climate dataset
 - maize_yield_comparison.png: Comparative yield analysis across models or years
 - maize_panel_gw.gif: Animated panel showing GWETTOP-based yield dynamics
-
+- Jean_Marie_Vianney_Minani_SB6-003.pptx: A power point presentation by the author during the conference on 23rd October 2025
 Findings
 --------
 - Precipitation has a stronger influence on yield than temperature
@@ -42,7 +42,7 @@ Findings
 - Moderate warming (+1.5°C) with increased rainfall (+10%) may improve yield by ~2.3%
 - The model explains ~23% of yield variability using climate variables
 
-Conference Context
+Conference context
 ------------------
 This work aligns with:
 - Sub-theme 1: Innovative Crop Production Systems
